@@ -30,45 +30,35 @@ ul{
     text-transform: uppercase;
     color: #2e2f42;
 }
-/* ---------menu-------- */
+/* ---------nav-------- */
 .nav-list {
+    font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.nav-link{
-    color: #2e2f42;
-    
-}
-.nav-link:hover{
+
+.nav-list:hover,.nav-list:focus{
    color: #404bbf
 }
-.nav-link:focus{
-    color:#404bbf
-}
-.menu{
-    font-weight: 500;
-    font-size: 16px;
-    color: #2e2f42;
-}
+
+
 /*----------contacts---------- */
-.contacts{
-    font-weight: 400;
-    font-style: normal
+.address{
+   font-style: normal
 }
-.contacns-link{
+.address-list-item{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+    cursor:pointer;
 }
-.contacns-link:hover{
+.address-list-item-link:hover,
+.address-list-item-link:focus {
     color: #404bbf;
-}
-.contacns-link:focus{
-    color:#404bbf ;
 }
 
 /* ---------hero--------- */
