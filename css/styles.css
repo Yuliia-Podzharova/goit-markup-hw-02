@@ -1,0 +1,118 @@
+body{
+    font-family: "Roboto", sans-serif;
+    background-color: #fff;
+    color: #434455;;
+}
+
+a{
+    text-decoration:none;
+}
+
+ul{
+    text-decoration:none;
+}
+/*---------- logo--------- */
+.logo{
+    font-weight: 700;
+    font-size: 18px;
+    color: #2e2f42;
+}
+.span-logo{
+    color: #4d5ae5;
+}
+/* ---------menu-------- */
+.menu{
+    font-weight: 500;
+    font-size: 16px;
+    color: #2e2f42;
+}
+/*----------contacts---------- */
+.contacts{
+    font-weight: 400;
+    font-size: 16px;
+    color: #434455;
+}
+.hero{
+    background-color: #2e2f42;
+    font-weight: 700;
+    font-size: 56px;
+    color: #fff;
+}
+
+.hero-btn{
+    display: flex;
+align-items: flex-start;
+justify-content: flex-start;
+flex-direction: row;
+gap: 10px;
+}
+
+/* ---------Our qualities-------- */
+.qualities-title{
+    font-weight: 700;
+    font-size: 36px;
+    color: #2e2f42;
+}
+
+.qualities-subtitle{
+    font-weight: 500;
+    font-size: 20px;
+    color: #2e2f42;
+}
+.gualities-content{
+    font-weight: 400;
+    font-size: 16px;
+    color: #434455;
+}
+/* ---------our team--------- */
+.team-title{
+    font-weight: 700;
+    font-size: 36px;
+    color: #2e2f42;  
+}
+
+.team-subtitle{
+    font-weight: 500;
+    font-size: 20px;
+    color: #2e2f42;  
+}
+
+.team-content{
+    font-weight: 400;
+    font-size: 16px;
+    color: #434455;
+}
+
+/* --------------portfolio----------- */
+.portfolio-title{
+    font-weight: 700;
+    font-size: 36px;
+    color: #2e2f42;  
+}
+.portfolio-subtitle{
+    font-weight: 500;
+    font-size: 20px;
+    color: #2e2f42;
+}
+
+.portfolio-content{
+    font-weight: 400;
+    font-size: 16px;
+    color: #434455; 
+}
+/* --------footer----------- */
+.footer{
+    background: #2e2f42;
+}
+
+.footer-logo{
+    font-weight: 700;
+    font-size: 18px;
+    color: #f4f4fd;
+}
+
+.footer-content{
+    font-weight: 400;
+    font-size: 16px;
+    color: #f4f4fd;
+}
